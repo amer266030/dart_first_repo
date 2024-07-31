@@ -4,4 +4,6 @@ void main(List<String> arguments) {
   print('Hello world: ${github_test.calculate()}!');
 }
 
-void int() => 'some output';
+String func1() => 'some output';
+
+String func2() => 'output 2';
